@@ -6,3 +6,14 @@ This repository contains a **Constraint Satisfaction Problem (CSP)** implementat
 
 - Implements a **CSP-based approach** to assign colors while maintaining constraints.
 - Uses **GeoPandas, Matplotlib, and Shapely** for spatial data processing and visualization.
+
+## Colored Map of India 
+
+<p align="center">
+  <img src="colored-map-of-india.png" alt="image of interactive colored map">
+</p>
+
+
+## Reference
+
+[GeeksforGeeks](https://www.geeksforgeeks.org/constraint-satisfaction-problems-csp-in-artificial-intelligence/)
